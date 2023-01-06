@@ -1,3 +1,5 @@
+# Author : Corentin ROZENBLUM
+
 # Getaround EU Backend Challenge (previously Drivy)
 
 Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
