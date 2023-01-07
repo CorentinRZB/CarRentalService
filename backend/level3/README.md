@@ -6,7 +6,7 @@ We decide to take a 30% commission on the rental price to cover our costs and ha
 The commission is split like this:
 
 - half goes to the insurance
-- 1€/day goes to the roadside assistance
+- 1€/day goes to the roadside assistance (Note : I think the correct rate is 100€/day looking at the expected outputs)
 - the rest goes to us
 
 Compute the amount that belongs to the insurance, to the assistance and to us.
